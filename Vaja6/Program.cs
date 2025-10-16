@@ -3,7 +3,7 @@
 namespace vaja6 {
 
     public enum Poklic { Bojevnik, Carovnik, Menih, Tat, Lovec, Duhoven };
-
+//nastavimo spremenljivke
     class Igralec {
         public int id;
         public string u_ime;
